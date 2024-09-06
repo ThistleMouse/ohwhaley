@@ -1,0 +1,16 @@
+Package: ohwhaley
+Title: Whale themed message display
+Version: 0.0.0.9000
+Authors@R: 
+    person("Bronwyn", "Sanders", , "bronwyn.sanders@students.mq.edu.au", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Display a whale with a customised message, or let it pick a random message for you.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
